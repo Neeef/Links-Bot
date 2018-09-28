@@ -1,0 +1,25 @@
+{
+  "name": "link-detection",
+  "version": "0.0.1",
+  "description": "a discord bot made for sbk that detects links in a specific channel",
+  "main": "node index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "link",
+    "sbk",
+    "links-bot",
+    "linkdetection"
+  ],
+  "author": "nef#8443",
+  "license": "MIT"
+}
